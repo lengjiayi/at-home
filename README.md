@@ -60,8 +60,7 @@
 - 相比于站姿俯身飞鸟，坐姿可以更好的保持稳定，不需要腰背发力维持上半身挺直，防止腰部发力错误受伤。
 - **不要耸肩**
 - **保持手肘始终朝上**，手肘朝后斜方肌会代偿。另外可以手臂略微弯曲，不需要完全伸直，减少肘关节的压力。具体可以参考站姿俯身飞鸟
-    - <img src="assets/
-    - bent over fly.gif" alt="bent over fly" style="zoom:80%;" />
+    - <img src="assets/bent-over-fly.gif" alt="bent over fly" style="zoom:80%;" />
 - **不要刻意收缩肩胛骨**
 - 总之，后束的练习需要小重量，正确发力。在正确发力练习结束后可以明显感到肩部后束的酸胀。
 
@@ -73,13 +72,13 @@
 
 | 斜方肌                             | 菱形肌                                                       | 背阔肌                              |
 | ---------------------------------- | ------------------------------------------------------------ | ----------------------------------- |
-| ![trapezius](assets/trapezius.jpg) | <img src="assets/rhomboid.jpg" alt="菱形肌" style="zoom:70%;" /> | ![img](assets/latissimus-dorsi.jpg) |
+| ![trapezius](assets/trapezius.jpg) | <img src="assets/rhomboid.jpg" alt="菱形肌" style="zoom:60%;" /> | ![img](assets/latissimus-dorsi.jpg) |
 
 基本上大部分的背部肌肉可以通过划船练习。
 
 ### 单手哑铃俯身划船
 
-<img src="assets/single arm bent over row.gif" alt="single arm bent over row" style="zoom:80%;" />
+<img src="assets/single-arm-bent-over-row.gif" alt="single arm bent over row" style="zoom:80%;" />
 
 - 之所以不用双手划船是因为相对于杠铃，双持哑铃时腰背更难保持水平稳定。并且用一只手支撑可以减轻腰部的压力。
 - 需要注意的是，俯身时上半身和腿保持一个钝角，两腿大概与肩同宽，背部保持水平。
@@ -88,7 +87,7 @@
     - 在划船提起时，首先手臂不夹紧躯干，手肘和躯干平行时可以留出一拳的距离。
     - 在提起手臂前吐气，收紧核心，放松大臂，做一个类似耸肩的动作作为激活。具体参考此视频https://www.bilibili.com/video/BV13q4y1B7wj
     - 可以稍微把手臂旋转一个角度，具体需要自己尝试，寻找发力感明显的角度。参考此图
-    - <img src="assets/bent row.jpg" alt="bent row" style="zoom:50%;" />
+    - <img src="assets/bent-row.jpg" alt="bent row" style="zoom:50%;" />
 
 
 
@@ -132,7 +131,7 @@
 
 #### 臂屈伸
 
-![bench dips](assets/bench dips.jpg)
+![bench dips](assets/bench-dips.jpg)
 
 - 可以通过调整双脚的前后来增加或减少难度。
 - 这里建议双手手指朝向两侧，而不是如图中手指向前，向前肩部会内旋，做了以后肩膀疼。
