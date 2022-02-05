@@ -16,7 +16,7 @@
 
 拇指环握在食指上。注意**不要手腕外翻**，防止手腕受伤。
 
-![hold](assets\hold.png)
+![hold](assets/hold.png)
 
 ## 肩部
 
